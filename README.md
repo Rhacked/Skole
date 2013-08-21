@@ -1,7 +1,6 @@
 Skole
-
-Repository
 =====
+
 
 Her legger jeg ut kode skrevet i forbindelse med skolen.
 
