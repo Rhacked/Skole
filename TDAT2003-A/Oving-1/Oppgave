@@ -1,0 +1,19 @@
+Oppgave 1
+
+a) Du skal lage et enkelt nettsted for firmaet Rot&Rør, som har spesialisert seg på å fjerne røtter
+som har vokst inn i rør. Du skal
+kun bruke CSS for layout og styling. CSS-koden skal være ekstern. Her er kravene til nettsiden:
+Layouten skal bygges ved hjelp av div'er eller HTML5-strukturtagger.
+Den skal ha en tabell med åpningstider.
+Den skal inneholde en liste over tidligere fornøyde kunder.
+Selve CSS'en skal bruke både klasser og id (minst en gang hver) for å refere til HTML-elementer.
+Fra forsiden skal det lenkes til en underside med presentasjon av minst to ansatte.
+Skjønnhet er ikke viktig her, men utforsk CSS litt og gi farge og personlighet til nettstedet.
+ 
+b) Frivillig oppgave, videregående CSS:
+Ta utgangspunkt i fila wireframe_oppgave.html og bruk css til å omforme den til en layout som den
+i wireframe.tiff. Tips: position og float blir sentrale her.
+ 
+Oppgave 2
+Velg et nettsted du bruker ofte, og kommenter det mhp. webdesigndelen av forelesningen.
+Hvordan vurderer du det ut fra "Noen ting å tenke på"-foilen? Skriv minst 200 ord.
