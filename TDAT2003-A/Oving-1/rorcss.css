@@ -1,0 +1,56 @@
+/* 
+    Document   : rorcss
+    Created on : 21.aug.2013, 10:31:54
+    Author     : Ruben
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+header{
+    position:relative;
+    left: 200px;
+    background-image:url('../images/ror.jpg');
+    height: 100px;
+    background-repeat: no-repeat;
+}
+
+nav td{
+    background-color:gainsboro;
+}
+
+aside{
+    float:right;
+}
+
+footer{
+    position: fixed;
+    bottom:0px;
+}
+
+#nav {
+    border-bottom-style:solid;
+    border-color: aqua;
+}
+
+#forKund {
+    position: relative;
+    bottom:-100px;
+}
+
+.link {
+    color: peru;
+}
+
+#jon{
+    float:left;
+    padding-left: 20px;
+}
+#tor{
+    float:left;
+    padding-left: 20px;
+}
+
